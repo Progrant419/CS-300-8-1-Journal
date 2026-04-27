@@ -1,6 +1,6 @@
 # CS-300-8-1-Journal
 
-What was the problem you were solving in the projects for this course?:
+What was the problem you were solving in the projects for this course?
 
 The problem was building an advising program to manage a course catalog. It required quickly finding specific courses and efficiently printing the entire catalog in alphanumeric order.
 
